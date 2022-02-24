@@ -34,5 +34,3 @@ export default function App() {
     </ScreenState>
   );
 }
-
-//just fuck project
